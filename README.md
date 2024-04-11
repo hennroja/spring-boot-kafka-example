@@ -19,13 +19,13 @@ This repository contains a sample application that demonstrates how to integrate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hennroja/spring-boot-kafka-example-2024.git
+   git clone https://github.com/hennroja/spring-boot-kafka-example.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd spring-boot-kafka-example-2024
+   cd spring-boot-kafka-example
    ```
 
 3. Start the Kafka environment using Docker Compose:
