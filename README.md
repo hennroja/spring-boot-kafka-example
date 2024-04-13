@@ -9,6 +9,10 @@ This repository contains a sample application that demonstrates how to integrate
 - Manual creation of a Kafka topic. See: `KafkaConfiguration` class
 - Docker-based setup for Kafka, Zookeeper, and Kafdrop
 
+Authors:
+* [Robin Henniges](https://github.com/hennroja)
+* [Dominic Simon](https://github.com/DomSimon)
+
 ## Prerequisites
 
 - Java + Kotlin
